@@ -20,3 +20,7 @@ How to use:
 6) Use ngrok to host your server to a public domain and connect it to the Twilio account.
 
 7) Text the number a bridge and watch the magic happen!
+
+Example:
+
+See example.jpeg for an sample 
